@@ -28,3 +28,15 @@ cv.convert(docx_file)
 
 
 cv.close()
+
+
+
+
+
+
+
+
+
+
+
+uccessfully installed PyMuPDF-1.25.5 fire-0.7.0 pdf2docx-0.5.8
